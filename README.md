@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 Hi, I’m @Ray0202 from SJTU, majored in Computer Science. 
-- ✨ I’m interested in data mining, recommedation systems, and interesting applications of LLM.
+- ✨ I’m interested in data mining, recommedation systems, and interesting applications of LLMs.
 - 📫 You can reach me at Muyan-Weng@outlook.com
 
 <!--
