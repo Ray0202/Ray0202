@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Ray0202 from SJTU, majored in Computer Science. 
 - ✨ I’m interested in data mining, recommedation systems, and interesting applications of LLMs.
 - 📫 You can reach me at Muyan-Weng@outlook.com
+- 🔭 My personal website is [here](https://ray0202.github.io/)
 
 <!--
 **Ray0202/Ray0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
