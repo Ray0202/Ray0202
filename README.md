@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m Muyan Weng @Ray0202, a first-year PhD student from USC. 
-- ✨ I’m interested in data mining, time series, and interesting applications of LLMs.
+- 👋 Hi, I’m Muyan Weng @Ray0202, a second-year PhD student from USC. 
+- ✨ I’m interested in data mining, time series, and interesting applications of LLMs and agents.
 - 📫 You can reach me at Muyan-Weng@outlook.com or muyanwen@usc.edu
 - 🔭 You can visit my personal website [here](https://ray0202.github.io/)
 
